@@ -20,14 +20,15 @@ Cropify is a fast and user-friendly React.js-based image cropping tool. Effortle
    
 ---
 
-## ✨ Features  
+## ✨ Features
 
-- Drag-and-Drop Upload:
+- ### **Drag-and-Drop Upload**  
 Easily upload images by dragging and dropping them or selecting files from your device.
 
-- Customizable Crop Area:
+- ### **Customizable Crop Area**  
 Adjust the crop area dynamically with resizing and repositioning options for precise editing.
 
-- Aspect Ratio Presets:
+- ### **Aspect Ratio Presets**  
 Choose from predefined aspect ratios like 1:1, 16:9, or go freeform for custom dimensions.
+
 
