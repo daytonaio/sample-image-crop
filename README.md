@@ -13,12 +13,11 @@ Cropify is a fast and user-friendly React.js-based image cropping tool. Effortle
    ```bash  
    daytona create https://github.com/Ayushjhawar8/Cropify-Daytona.git 
    ```  
-
 3. **Start the Application**:  
    ```bash  
    npm run dev
    ```  
-
+   
 ---
 
 ## ✨ Features  
