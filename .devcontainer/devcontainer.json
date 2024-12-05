@@ -12,10 +12,9 @@
         },
         "extensions": [
           "esbenp.prettier-vscode",
-          "msjsdiag.vscode-react-native",
           "dbaeumer.vscode-eslint"
         ]
       }
     },
-    "postCreateCommand": "npm install"
+    "postCreateCommand": "pnpm install"
   }
