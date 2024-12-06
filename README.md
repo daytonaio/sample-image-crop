@@ -41,6 +41,8 @@ I chose **Daytona** for managing and deploying the development environment becau
 
 By leveraging **Daytona**, I was able to streamline the development process and focus more on building **Cropify** without worrying about setup or compatibility issues.
 
+---
+
 <details>
   <summary>📸 Screenshots</summary>
 
@@ -55,6 +57,8 @@ By leveraging **Daytona**, I was able to streamline the development process and 
 
 </details>
 
+---
+
 ## ✨ Features
 
 - ### **Drag-and-Drop Upload**  
@@ -66,6 +70,7 @@ Adjust the crop area dynamically with resizing and repositioning options for pre
 - ### **Aspect Ratio Presets**  
 Choose from predefined aspect ratios like 1:1, 16:9, or go freeform for custom dimensions.
 
+---
 
 ## 🖥️ Tech Stack
 
