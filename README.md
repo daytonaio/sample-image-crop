@@ -9,6 +9,7 @@ Cropify is a fast and user-friendly React.js-based image cropping tool. Effortle
 ### Open Using Daytona  
 
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
+
 2. **Create the Workspace**:  
    ```bash  
    daytona create https://github.com/Ayushjhawar8/Cropify-Daytona.git 
@@ -59,7 +60,7 @@ By leveraging **Daytona**, I was able to streamline the development process and 
 
 ---
 
-## ✨ Features
+## ✨ Features of Cropify
 
 - ### **Drag-and-Drop Upload**  
 Easily upload images by dragging and dropping them or selecting files from your device.
