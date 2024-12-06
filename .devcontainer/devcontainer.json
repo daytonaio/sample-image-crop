@@ -2,7 +2,7 @@
     "name": "Cropify Development Environment",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
     "forwardPorts": [
-      3000,5000
+      3000
     ],
     "customizations": {
       "vscode": {
